@@ -1,5 +1,5 @@
-# 💫 About Me:
-<h1>Hi there! 👋 This is Kaneki...</h1>  I'm a Front-End Developer<br>I'm a passionate front-end developer with a strong foundation in HTML, CSS, and JavaScript, continuously improving my skills in modern frameworks like React. I love crafting responsive, user-friendly, and visually appealing web applications.<br><br><h2>💡 What I'm working on:</h2>Enhancing my expertise in React, Next.js, and Tailwind CSS<br>Learning best practices for performance optimization and accessibility<br>Exploring backend technologies to become a more well-rounded developer<br><br><h2>🚀 Tech Stack:</h2>Languages: JavaScript (ES6+), HTML, CSS<br>Frameworks & Libraries: React, Next.js, Tailwind CSS(Started learning)<br>Tools & Platforms: Git, GitHub, VS Code, Figma<br><br><h2>📚 Always Learning:</h2>I'm eager to expand my knowledge, collaborate with other developers, and contribute to open-source projects. If you have any tips, feedback, or opportunities to work together, feel free to reach out!<br><br>
+Hi there! 👋 This is Kaneki...
+I'm a Front-End Developer<br>I'm a passionate front-end developer with a strong foundation in HTML, CSS, and JavaScript, continuously improving my skills in modern frameworks like React. I love crafting responsive, user-friendly, and visually appealing web applications.<br><br><h2>💡 What I'm working on:</h2>Enhancing my expertise in React, Next.js, and Tailwind CSS<br>Learning best practices for performance optimization and accessibility<br>Exploring backend technologies to become a more well-rounded developer<br><h2>🚀 Tech Stack:</h2>Languages: JavaScript (ES6+), HTML, CSS<br>Frameworks & Libraries: React, Next.js, Tailwind CSS(Started learning)<br>Tools & Platforms: Git, GitHub, VS Code, Figma<br><h2>📚 Always Learning:</h2>I'm eager to expand my knowledge, collaborate with other developers, and contribute to open-source projects. If you have any tips, feedback, or opportunities to work together, feel free to reach out!
 
 
 ## 🌐 Socials:
@@ -12,5 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaneki-09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaneki-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Kaneki-09&icon=0&color=0)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
