@@ -88,8 +88,8 @@ Wireframes and prototypes focused on usability and accessibility.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended-kijn9nkuq-kaneki-projects.vercel.app/api?username=Kaneki-09&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-stats-extended-kijn9nkuq-kaneki-projects.vercel.app/api?username=Kaneki-09&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-stats-extended-tan.vercel.app/api?username=Kaneki-09&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-stats-extended-tan.vercel.app/api/top-langs?username=Kaneki-09&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
