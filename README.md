@@ -1,18 +1,97 @@
-# 💫 About Me:
-Hi there 👋 I’m Kaneki<br>🚀 Front-End Developer<br><br>I’m a passionate Front-End Developer with a strong foundation in HTML, CSS, and JavaScript, and hands-on experience building modern web interfaces using React. I enjoy turning ideas into clean, responsive, and user-friendly web experiences, with a strong focus on UI detail and usability.<br><br>💡 What I’m currently working on<br><br>Deepening my skills in React, Next.js, and Tailwind CSS<br><br>Writing clean, scalable, and maintainable front-end code<br><br>Learning performance optimization and web accessibility (a11y) best practices<br><br>Exploring backend fundamentals to become a more well-rounded developer
+# 👋 Hi, I'm Kaneki
 
+🎓 Third-Year Computer Science Student in Japan  
+💻 Front-End Developer • Building Toward Full-Stack Engineering
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shushil-thapa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kaneki-09.medium.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/kanekii_09) 
+I enjoy building software that is both functional and intuitive to use.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kaneki-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kaneki-09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaneki-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My journey started with two years of studying front-end development and web design, where I built a strong foundation in modern web technologies and UI/UX principles. At university, I'm expanding into backend development, computer science fundamentals, and software engineering through coursework and personal projects.
+
+I'm always looking to learn by building, understand how systems work, and create software that solves real-world problems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kaneki-09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Tech Stack
+
+### Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Currently Learning
+
+- Backend Development
+- Python
+- Java
+- SQL
+- Data Structures & Algorithms
+
+### Interested In
+
+- Full-Stack Development
+- Data Engineering
+- Machine Learning
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Portfolio Website
+Modern portfolio built with **Next.js** and **Tailwind CSS**.
+
+🔗 Live Demo: Coming Soon  
+📂 Repository: Coming Soon
+
+---
+
+### ⚛️ Full-Stack Web Application
+A responsive web application with API integration and dynamic UI.
+
+🔗 Live Demo: Coming Soon  
+📂 Repository: Coming Soon
+
+---
+
+### 🎨 UI / UX Design
+Wireframes and prototypes focused on usability and accessibility.
+
+---
+
+## 🌱 Currently Working On
+
+- Building full-stack projects
+- Strengthening backend development skills
+- Improving problem-solving and algorithmic thinking
+- Learning software engineering best practices
+
+---
+
+## 🌍 Languages
+
+- 🇯🇵 Japanese (JLPT N2)
+- 🇬🇧 English
+
+---
+
+## 📫 Connect
+
+- Portfolio: Coming Soon
+- LinkedIn: www.linkedin.com/in/shushil-thapa
+- Email: krishnathapa109@email.com
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaneki-09&show_icons=true&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaneki-09&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+> *Learning deeply. Building thoughtfully. Improving continuously.*
