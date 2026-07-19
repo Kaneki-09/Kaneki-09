@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Kaneki
 
+> *Learning deeply. Building thoughtfully. Improving continuously.*
+
 🎓 Third-Year Computer Science Student in Japan  
 💻 Front-End Developer • Building Toward Full-Stack Engineering
 
@@ -93,5 +95,3 @@ Wireframes and prototypes focused on usability and accessibility.
 </p>
 
 ---
-
-> *Learning deeply. Building thoughtfully. Improving continuously.*
